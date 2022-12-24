@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.c2ray.pojoutil.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.c2ray.pojoutil.MyBundle
 
 class MyApplicationService {
 
